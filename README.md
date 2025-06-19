@@ -21,7 +21,7 @@ A stylish and functional calculator application built using Python's `tkinter` l
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/tkinter-calculator.git
+   git clone https://github.com/MarinaDoolub/tkinter-calculator.git
    cd tkinter-calculator
    ```
 
